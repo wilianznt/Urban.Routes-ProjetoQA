@@ -55,6 +55,10 @@ O nosso objetivo aqui foi garantir uma experiência consistente em todos os ambi
   <a href="https://www.atlassian.com/software/jira" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="Jira Icon" width="48" height="48" title="Visit Jira website">
   </a>
+  <img src="https://static-00.iconduck.com/assets.00/file-type-drawio-icon-2048x2048-dxjfklgq.png" alt="Draw.io Logo" height="50" width="50" />
+  
+ 
+   
 </div>
 
 ##
@@ -66,4 +70,4 @@ Atenciosamente,
 
 <img src="https://media.giphy.com/media/JGSCwTt87agIU/giphy.gif?cid=ecf05e47utrvmyygq26j8jix20kdcg4jj73ebq9s6x9c2w7p&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF" />
 
-
+   
