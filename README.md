@@ -39,6 +39,7 @@ Começamos criando um checklist para o layout do formulário de reserva, garanti
 Depois, fizemos outro checklist para avaliar a funcionalidade das janelas "Método de Pagamento" e "Adicionar Cartão", utilizando técnicas avançadas de teste para garantir que tudo funcionasse perfeitamente.
 
 O nosso objetivo aqui foi garantir uma experiência consistente em todos os ambientes, tornando o Urban Routes uma opção confiável para todos os usuários, independentemente do navegador que eles estejam usando.
+#### 🔗[Links para os relatórios de bugs feitos no Jira:](https://zzzmalu55.atlassian.net/jira/software/c/projects/SB/issues)
 
 ## Tecnologias Utilizadas
 
